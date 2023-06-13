@@ -1,0 +1,6 @@
+*.xml
+*.pyc
+*.iml
+*.idea
+*checkpoint.ipynb
+.DS_Store
